@@ -5,6 +5,3 @@
 [submodule "BLOQ"]
 	path = BLOQ
 	url = https://github.com/cran/BLOQ
-[submodule "clustDRM"]
-	path = clustDRM
-	url = https://github.com/cran/clustDRM
